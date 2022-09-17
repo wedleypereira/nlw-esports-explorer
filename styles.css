@@ -118,6 +118,17 @@ section ul li:hover {
     border-radius: 50%;
 }
 
+.familia img {
+    width: 300px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.familia, .familia ul {
+    display: block;
+    text-align: center;
+}
+
 /* ANIMATION */
 
 @keyframes fromTop {
