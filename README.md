@@ -2,6 +2,10 @@
 
 ![preview](./.github/preview.png)
 
+## Desafio Extra
+
+![site-filmes](./.github/site-filmes.png)
+
 > Trilha Explorer
 
 Projeto construído no evento Next Level Week da Rocketseat.
